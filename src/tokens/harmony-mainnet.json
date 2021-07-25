@@ -142,5 +142,13 @@
     "name": "Fraterium",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x4970417a897Cc7ae812b9b8Db34bb44833C26739",
+    "symbol": "COINK",
+    "name": "Piggybankone",
+    "decimals": 18,
+    "logoURI": "https://imgur.com/a/1W5lNRR"
   }
 ]
